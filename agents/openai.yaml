@@ -1,0 +1,4 @@
+interface:
+  display_name: "Externalize Thinking"
+  short_description: "Turn fuzzy intuitions into structured cognitive maps."
+  default_prompt: "Help me externalize this fuzzy intuition, locate the thinking dimensions, and produce a reusable map."
