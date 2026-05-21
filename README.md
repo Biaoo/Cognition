@@ -117,11 +117,3 @@ the skill applies stabilized methods to AI collaboration
 ```
 
 Therefore, the project allows ideas to remain exploratory, partially formed, and revisable inside references. Only after some concepts become stable should they be compressed into skill rules, prompts, or methods.
-
-## About The Name
-
-The project is called `Cognition`.
-
-The name is intentionally broad. This is not a general cognitive science project, but a personal cognition system: a place for recording how my judgments, stuck points, principles, and thinking moves become explicit through human-AI collaboration.
-
-The current repository directory may still be `externalize-thinking-skill`, but the conceptual project name is `Cognition`.
